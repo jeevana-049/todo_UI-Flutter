@@ -9,12 +9,9 @@ This project shows how to add and remove tasks dynamically using a TextField and
 - UI-only demo (no backend)
 
 ## Preview 
-- To-Do OutputPage
-- <img width="914" height="803" alt="image" src="https://github.com/user-attachments/assets/03a9198c-da4d-426c-9254-877c36aec079" />
-- Adding tasks to To-Do List
-- <img width="910" height="665" alt="image" src="https://github.com/user-attachments/assets/0edf7599-7a2f-4286-ac9f-3ce46a8ab0af" />
-- Delete tasks from To-Do List
-- <img width="919" height="698" alt="image" src="https://github.com/user-attachments/assets/2c0c50cb-6bee-4045-8bf9-40fdb069d779" />
+- To-Do OutputPage <img width="914" height="803" alt="image" src="https://github.com/user-attachments/assets/03a9198c-da4d-426c-9254-877c36aec079" />
+- Adding tasks to To-Do List <img width="910" height="665" alt="image" src="https://github.com/user-attachments/assets/0edf7599-7a2f-4286-ac9f-3ce46a8ab0af" />
+- Delete tasks from To-Do List <img width="919" height="698" alt="image" src="https://github.com/user-attachments/assets/2c0c50cb-6bee-4045-8bf9-40fdb069d779" />
 
 
 ## How to Run
